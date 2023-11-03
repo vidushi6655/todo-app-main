@@ -1,6 +1,6 @@
 
 <h2 align="center">Links</h2>
-- Live Site URL: https://data-vidushidev.netlify.app/
+- Live Site URL:https://to-do-vidushidev.netlify.app/
 
 <br>
 Your users should be able to:
